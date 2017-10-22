@@ -1,2 +1,3 @@
-# prithvimotaparti.github.io
-myself
+# http://prithvimotaparti.github.io
+http://prithvimotaparti.github.io
+
